@@ -1,12 +1,12 @@
 {
-    "name": "tackk/cartographer",
+    "name": "easyeatsxyz/cartographer",
     "description": "A PHP sitemap generation tool.",
     "keywords": ["sitemap", "generator"],
     "license": "MIT",
     "authors": [
         {
-            "name": "Dan Horrigan",
-            "email": "dh@tackk.com"
+            "name": "Terry Pearson",
+            "email": "terry@easyeats.xyz"
         }
     ],
     "minimum-stability": "dev",
