@@ -1,12 +1,9 @@
 # Cartographer
 
-[![Latest Stable Version](https://poser.pugx.org/tackk/cartographer/version.png)](https://packagist.org/packages/tackk/cartographer)
-[![Total Downloads](https://poser.pugx.org/tackk/cartographer/d/total.png)](https://packagist.org/packages/tackk/cartographer)
-[![License](https://poser.pugx.org/tackk/cartographer/license.png)](https://packagist.org/packages/tackk/cartographer)
+** THIS IS A FORK OF THE TRAKK/CARTOGRAPHER PROJECT. It only changes the dependencies so it can be compatible with the latest Laravel **
+The original project was built by Dan Horrigan
 
-[![Build Status](https://travis-ci.org/tackk/cartographer.svg)](https://travis-ci.org/tackk/cartographer)
-[![Code Coverage](https://scrutinizer-ci.com/g/tackk/cartographer/badges/coverage.png?s=5547a47fb7e014a26cc4b43f69832f82b673d8ba)](https://scrutinizer-ci.com/g/tackk/cartographer/)
-[![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/tackk/cartographer/badges/quality-score.png?s=47b9d98507fa3ea5be94ef3656a3de5a5bff662d)](https://scrutinizer-ci.com/g/tackk/cartographer/)
+
 
 A sitemap generation tool for PHP following the [Sitemap Protocol v0.9](http://www.sitemaps.org/protocol.html).
 
